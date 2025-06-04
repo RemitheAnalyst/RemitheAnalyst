@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst/Business Analyst
 -----------------------------
 
-Results-driven BCS-certified Business and Data Analyst with an MSc in Data Science. Experienced in business process analysis, change management, and SDLC. Skilled at transforming complex data into actionable insights to drive product performance, operations, and strategic decisions. Proficient in SQL, Python, R, and Power BI, with expertise in statistical analysis, KPI tracking, data visualization, and pipeline development. Experienced in ERP systems, technical documentation, and dashboard monitoring in fast-paced, high-impact environments.
+Results-driven BCS-certified Business and Data Analyst with an MSc in Data Science. Experienced in business process analysis, change management, and SDLC. Skilled at transforming complex data into actionable insights to drive product performance, operations, and strategic decisions. Proficient in Microsoft Excel, SQL, Python, R, and Power BI, with expertise in statistical analysis, KPI tracking, data visualization, and pipeline development. Experienced in ERP systems, technical documentation, and dashboard monitoring in fast-paced, high-impact environments.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [oluremi.kehinde@yahoo.com](mailto:oluremi.kehinde@yahoo.com)
